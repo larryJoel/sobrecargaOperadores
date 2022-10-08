@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\bin\Debug\net6.0\sobreCargaOperadores.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\bin\Debug\net6.0\sobreCargaOperadores.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\bin\Debug\net6.0\sobreCargaOperadores.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\bin\Debug\net6.0\sobreCargaOperadores.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\bin\Debug\net6.0\sobreCargaOperadores.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\obj\Debug\net6.0\sobreCargaOperadores.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\obj\Debug\net6.0\sobreCargaOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\obj\Debug\net6.0\sobreCargaOperadores.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\obj\Debug\net6.0\sobreCargaOperadores.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\obj\Debug\net6.0\sobreCargaOperadores.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\obj\Debug\net6.0\sobreCargaOperadores.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\obj\Debug\net6.0\refint\sobreCargaOperadores.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\obj\Debug\net6.0\sobreCargaOperadores.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\obj\Debug\net6.0\sobreCargaOperadores.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaOperadores\obj\Debug\net6.0\ref\sobreCargaOperadores.dll
